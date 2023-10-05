@@ -3,7 +3,7 @@
 > :alembic: This application provide API create purchase requests for some books.
 
 
-## :construction: Install
+##: Install
 
 *  Create virtual enviroment for application
 
